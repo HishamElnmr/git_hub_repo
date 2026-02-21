@@ -1,3 +1,4 @@
 file_test1.txt
 after edit
 after local edit
+after remote edit
